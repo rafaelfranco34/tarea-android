@@ -10,6 +10,10 @@
           <option name="url" value="https://github.com/diana2050/proyectoandroid.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/gjprada/hello-world.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\rff_a\AndroidStudioProjects" />
