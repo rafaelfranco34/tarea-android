@@ -3,6 +3,11 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/AndroidStudioProjects/TokenGenerator/app/src/main/res/layout/activity_main.xml" value="0.365625" />
+        <entry key="..\:/Users/rff_a/OneDrive/Desktop/api4/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.3807291666666667" />
+        <entry key="..\:/Users/rff_a/OneDrive/Desktop/api4/app/src/main/res/drawable/ic_launcher_background.xml" value="0.3807291666666667" />
+        <entry key="..\:/Users/rff_a/OneDrive/Desktop/api4/app/src/main/res/layout/activity_buscar.xml" value="0.2957427536231884" />
+        <entry key="..\:/Users/rff_a/OneDrive/Desktop/api4/app/src/main/res/layout/activity_main.xml" value="0.2957427536231884" />
+        <entry key="..\:/Users/rff_a/OneDrive/Desktop/api4/app/src/main/res/layout/activity_nuevo.xml" value="0.2957427536231884" />
       </map>
     </option>
   </component>
